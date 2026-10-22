@@ -1,5 +1,7 @@
 # PXE autoinstall server for Ubuntu 26.04 and 22.04
 
+**Will Wipe Drive** No prompts full automation
+
 One script that turns an Ubuntu server into a UEFI PXE boot server. Boot a machine or VM from the network, pick a menu entry, and it installs Ubuntu Server unattended.
 
 ## What it sets up
